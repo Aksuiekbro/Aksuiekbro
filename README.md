@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aksuiekbro
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Statistics
+- 🌱 I’m currently learning Statistics, ML
 - 💞️ I’m looking to collaborate on Some Projects
-- 📫 How to reach me ...
+- 📫 How to reach me Dauren190307@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm a competetive programmer
 
